@@ -1,0 +1,281 @@
+@charset "utf-8";
+.navbar-nav.ml-auto .nav-item .nav-link {
+    font-weight: bold;
+    color: #000000;
+}
+.row .col-lg-6 {
+    font-weight: bold;
+    text-align: center;
+}
+.row .col-lg-12 {
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+}
+.row .TOP.HOODIES {
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: 29px;
+}
+.row .men {
+    margin-top: 29px;
+}
+
+.row .TOP.T-SHIRTS h3 {
+    margin-left: 160px;
+}
+
+.row .men {
+    text-align: left;
+    margin-left: 585px;
+    font-weight: lighter;
+}
+.container.conban {
+    margin-left: 42px;
+    text-align: center;
+
+}
+.row .TH.1 {
+    text-align: center;
+
+}
+.row .TH.1 .imgth {
+    text-align: center;
+    padding-left: 60px;
+    padding-top: 143px;
+}
+.row.dcfghvj {
+
+}
+.TH.1 div p {
+    font-weight: bolder;
+}
+.row .men h6 {
+}
+.row .Sports.Shoes h3 {
+    margin-left: 160px;
+    margin-top: 39px;
+}
+.row .shoes h6 {
+    margin-left: 585px;
+    margin-top: 39px;
+}
+.row.text-center .col h3 {
+
+
+}
+.col .shoes h6 {
+    text-align: right;
+
+
+
+
+
+
+
+}
+.row .shoes h6 {
+    text-align: right;
+}
+.row .men h6 {
+    text-align: right;
+}
+.container .row {
+    margin-top: 30px;
+
+}
+.container .Nivo.Limited {
+    font-weight: lighter;
+    text-align: center;
+    background-color: #F9F9F9;
+}
+.container .NIVO {
+    text-align: center;
+    background-color: #F9F9F9;
+    margin-top: 30px;
+}
+.container-fluid.foof {
+    background-color: #F9F9F9;
+}
+
+
+
+
+
+
+
+.col .Sneakers h3 {
+    text-align: left;
+    margin-top: 49px;
+
+}
+.row.text-center .row .Sneakers {
+    margin-top: 39px;
+}
+
+.container .About.Us {
+    text-align: center;
+    font-weight: normal;
+    background-color: #F9F9F9;
+}
+.container {
+}
+.container .row.dcfghvj .SS.1 {
+    text-align: center;
+}
+.container.uu {
+    margin-left: 225px;
+}
+.row.dcfghvj .SS.1 img {
+
+}
+.container.uu .row.dcfghvj .SS.1 {
+    margin-left: 23px;
+}
+.container.rr {
+    margin-left: 230px;
+}
+.row.dcfghvj .TH.1 img {
+}
+.container.ee {
+    margin-left: 230px;
+}
+.OUR.FEATURED.COLLECTION {
+    background-color: #E9E0E0;
+}
+.container-fluid.bg1.p-0 {
+    background-image: url(images/banner-1.jpg);
+    background-size: cover;
+    font-weight: 500;
+    height: 800px;
+}
+.container.form .container-form.p-0.form {
+    color: #131A2E;
+    font-weight: bolder;
+    font-size: 156px;
+}
+.container-fluid.form1 {
+    background-color: #EFEEEE;
+}
+.container-fluid.bg1.p-0 .text1 {
+    color: #131A2E;
+    font-weight: bold;
+    font-size: 160px;
+    font-family: Roboto;
+    padding-top: 120px;
+    padding-left: 20px;
+}
+.container-fluid.bg1.p-0 .text2 {
+    font-weight: bolder;
+    font-family: Roboto;
+    font-size: 130px;
+    color: #131A2E;
+    padding-left: 20px;
+    padding-top: 0px;
+    margin-top: -45px;
+}
+.container-fluid.bg1.p-0 .text3 {
+    color: #0D4130;
+    text-align: center;
+    margin-left: -1010px;
+    font-family: "Baskerville Old Face";
+    font-weight: normal;
+    font-size: 50px;
+}
+.row .shoes h6 {
+}
+.container .About.Us {
+    margin-top: -15px;
+}
+.row.text-center .row .Sneakers {
+    margin-left: 50px;
+}
+.container-fluid.form1 .container.form {
+    background-image: url(images/form-image-.jpg);
+    background-size: cover;
+    height: 650px;
+}
+.container-fluid.form1 .container.form.content {
+}
+.container-fluid.form1 .container.form.content .content {
+}
+.container-fluid.form1 .container.form.content .mf {
+    width: 0px;
+    margin-top: 18px;
+
+}
+.container-fluid.for1 {
+    background-image: url(url);
+    background-color: #EFEEEE;
+    height: 660px;
+}
+.container-fluid.for1 .container.img1 {
+    background-image: url(images/form-image-.jpg);
+    background-size: cover;
+    height: 650px;
+}
+.container-fluid.for1 .container.img1 .form1 {
+    margin-top: 160px;
+    margin-left: 130px;
+    width: 430px;
+    height: 50px;
+    border-radius: 30px;
+    border-style: none;
+    padding-left: 20px;
+}
+.container-fluid.for1 .container.img1 .form2 {
+    margin-left: 130px;
+    margin-top: 20px;
+    width: 430px;
+    height: 50px;
+    border-radius: 30px;
+    border-style: none;
+    padding-left: 20px;
+}
+.container-fluid.for1 .container.img1 .form3 {
+    margin-left: 130px;
+    margin-top: 15px;
+    width: 430px;
+    height: 50px;
+    border-radius: 30px;
+    border-style: none;
+    padding-top: 0px;
+    padding-left: 20px;
+}
+.container-fluid.for1 .container.img1 .form4 {
+    margin-left: 130px;
+    margin-top: 15px;
+    height: 50px;
+    width: 430px;
+    border-radius: 30px;
+    border-style: none;
+}
+.container-fluid.for1 .container.img1 .form4 {
+    padding-top: 12px;
+    padding-left: 20px;
+}
+.container-fluid.for1 .container.img1 .form5 {
+    margin-left: 130px;
+    margin-top: 10px;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+}
+.container-fluid.for1 .container.img1 .form5 {
+    border-style: none;
+}
+.container-fluid.bg1.p-0 .BG.BUTTON {
+    width: 100px;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-bottom: 4px;
+    font-weight: bold;
+    color: #000000;
+    border-style: none;
+    margin-left: 190px;
+    margin-top: -20px;
+}
+.row .TOP.T-SHIRTS {
+    margin-top: 29px;
+}
